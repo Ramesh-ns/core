@@ -9,7 +9,7 @@ package all;
  
 class C1 extends B1{
 	void abc(){
-		System.out.println("C method");
+		System.out.println("C method for git test");
 	}
 }
 class D extends B1{
